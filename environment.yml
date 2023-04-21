@@ -4,8 +4,8 @@ dependencies:
   - scipy
   - matplotlib
   - pandas
-  - PIL
-  - skikit-learn
+  - pillow
+  - scikit-learn
   - keras
   - tensorflow
   - ipywidgets
