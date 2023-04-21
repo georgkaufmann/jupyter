@@ -1,0 +1,13 @@
+name: Lecture environment file
+dependencies:
+  - numpy
+  - scipy
+  - matplotlib
+  - pandas
+  - PIL
+  - skikit-learn
+  - keras
+  - tensorflow
+  - ipywidgets
+  - jupyter_contrib_nbextensions
+  - cartopy
