@@ -8,6 +8,7 @@ dependencies:
   - scikit-learn
   - keras
   - tensorflow
+  - nbgitpuller
   - ipywidgets
   - jupyter_contrib_nbextensions
   - cartopy
